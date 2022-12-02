@@ -1,11 +1,8 @@
-#include <iostream>
-
-
-using namespace std;
+#include "func.h"
 
 
 int main()
 {
-    cout << "Hello World!\n";
+    print();
     return 0;
 }
