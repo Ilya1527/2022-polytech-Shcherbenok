@@ -1,0 +1,1 @@
+int linesearch(int arr[], int n, int key);
